@@ -9,6 +9,16 @@ This repository contains the materials prepared by
 <sup>[1](#UW)</sup> <!--_-->
 for the [IUSSP 2017 Workshop on Social Media, Big Data and Digital Demography](https://iussp.org/en/training-course-social-media-big-data-and-digital-demography-ipc2017workshop).
 
+## Setup
+
+Please complete the following setup steps before the workshop. If you run into
+trouble with one of them, please attempt to complete the others.
+
+1. [Install R packages](https://github.com/CSDE-UW/IUSSP-digital-demog-2017/blob/master/install_packages.R)
+2. [Get Census API key](https://github.com/ccgilroy/retrieving-data-through-apis#getting-a-census-api-key)
+3. Get Twitter credentials
+4. [Get Facebook credentials](https://github.com/ccgilroy/r-estimates-fb-ads/blob/master/Instructions_to_obtain_FB_Ad_Manager_Credentials.pdf)
+
 ## Schedule
 
 This is an approximate schedule for the day-long workshop.
