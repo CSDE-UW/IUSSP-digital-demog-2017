@@ -35,7 +35,7 @@ The linked folders and repositories contain the code and slides for the hands-on
 |----------|-------------------------------------------------------------------------------------------------------- |
 | Module 1 | [Retrieving data through APIs](https://github.com/ccgilroy/retrieving-data-through-apis)                |
 | Module 2 | Collecting and analyzing Twitter data                                                                   |
-| Module 3 | Visualizing and mapping Twitter data                                                                    |
+| Module 3 | [Visualizing and mapping Twitter data](https://github.com/ccgilroy/mapping-twitter-data)                |
 | Module 4 | [Demographic estimates from the Facebook Marketing API](https://github.com/ccgilroy/r-estimates-fb-ads) |
 
 
