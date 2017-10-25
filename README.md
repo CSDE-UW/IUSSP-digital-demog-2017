@@ -16,7 +16,7 @@ trouble with one of them, please attempt to complete the others.
 
 1. [Install R packages](https://github.com/CSDE-UW/IUSSP-digital-demog-2017/blob/master/install_packages.R)
 2. [Get Census API key](https://github.com/ccgilroy/retrieving-data-through-apis#getting-a-census-api-key)
-3. Get Twitter credentials
+3. [Get Twitter credentials](https://github.com/ezagheni/IUSSP2017_Twitter_module/blob/master/Instuctions_to_obtain_Twitter_credentials.pdf)
 4. [Get Facebook credentials](https://github.com/ccgilroy/r-estimates-fb-ads/blob/master/Instructions_to_obtain_FB_Ad_Manager_Credentials.pdf)
 
 ## Schedule
