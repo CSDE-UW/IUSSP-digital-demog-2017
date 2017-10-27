@@ -3,7 +3,6 @@
 install.packages(c(
   "countrycode",
   "devtools", 
-  "ggthemes", 
   "jsonlite", 
   "leaflet", 
   "plyr",
@@ -16,11 +15,17 @@ install.packages(c(
   "yaml"
 ))
 
+# optional packages for static mapping
+install.packages(c(
+  "ggthemes", 
+  "maps", 
+  "mapproj"
+))
+
 # test that the packages load successfully
 library(countrycode)
 library(devtools)
 library(forcats)
-library(ggthemes)
 library(httr)
 library(jsonlite)
 library(leaflet)
@@ -32,3 +37,7 @@ library(streamR)
 library(stringr)
 library(tidyverse)
 library(twitteR)
+
+library(ggthemes)
+library(maps)
+library(mapproj)
