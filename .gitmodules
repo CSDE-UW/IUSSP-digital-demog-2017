@@ -1,0 +1,12 @@
+[submodule "01-retrieving-data-through-apis"]
+	path = 01-retrieving-data-through-apis
+	url = https://github.com/ccgilroy/retrieving-data-through-apis
+[submodule "02-IUSSP2017-twitter-module"]
+	path = 02-IUSSP2017-twitter-module
+	url = https://github.com/ezagheni/IUSSP2017_Twitter_module
+[submodule "03-mapping-twitter-data"]
+	path = 03-mapping-twitter-data
+	url = https://github.com/ccgilroy/mapping-twitter-data
+[submodule "04-estimate-facebook-ads"]
+	path = 04-estimate-facebook-ads
+	url = https://github.com/ccgilroy/r-estimates-fb-ads
