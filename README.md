@@ -56,7 +56,7 @@ community of users, and they have made many materials for learners available
 freely online.
 
 Charles Lanfear teaches a 10-week course at the University of Washington
-called Introduction to R for Data Scientists. The slides and recorded
+called Introduction to R for Social Scientists. The slides and recorded
 videos of his lectures are publicly available on his course website:
 https://clanfear.github.io/CSSS508/
 
